@@ -12,14 +12,13 @@ There is a much smaller set of concepts, however, that come up repeatedly in day
 As Munger says, “80 or 90 important models will carry about 90% of the freight in making you a worldly‑wise person.”
 
 #### Explaining
-- (1) Hanlon’s Razor — “Never attribute to malice that which is adequately explained by carelessness.”
-- (1) Occam’s Razor — “Among competing hypotheses, the one with the fewest assumptions should be selected.”
-- (1) Cognitive Biases — “Tendencies to think in certain ways that can lead to systematic deviations from a standard of rationality or good judgments.” (See list of cognitive biases)
-- (1) Arguing from First Principle — “A first principle is a basic, foundational, self-evident proposition or assumption that cannot be deduced from any other proposition or assumption.”
-- (1) Proximate vs Root Cause — “A proximate cause is an event which is closest to, or immediately responsible for causing, some observed result. This exists in contrast to a higher-level ultimate cause (or distal cause) which is usually thought of as the ‘real’ reason something occurred.”
+- (1) [Hanlon’s Razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor) — “Never attribute to malice that which is adequately explained by carelessness.”
+- (1) [Occam’s Razor](https://en.wikipedia.org/wiki/Occam%27s_razor) — “Among competing hypotheses, the one with the fewest assumptions should be selected.”
+- (1) [Cognitive Biases](https://en.wikipedia.org/wiki/Cognitive_bias) — “Tendencies to think in certain ways that can lead to systematic deviations from a standard of rationality or good judgments.” (See list of cognitive biases)
+- (1) [Arguing from First Principle](https://en.wikipedia.org/wiki/First_principle) — “A first principle is a basic, foundational, self-evident proposition or assumption that cannot be deduced from any other proposition or assumption.”
+- (1) [Proximate vs Root Cause](https://en.wikipedia.org/wiki/Proximate_and_ultimate_causation) — “A proximate cause is an event which is closest to, or immediately responsible for causing, some observed result. This exists in contrast to a higher-level ultimate cause (or distal cause) which is usually thought of as the ‘real’ reason something occurred.”
 
 #### Modeling
-Modeling
 - (1) Systems Thinking — “By taking the overall system as well as its parts into account systems thinking is designed to avoid potentially contributing to further development of unintended consequences.” (related: causal loop diagrams)
 - (1) Scenario Analysis — “A process of analyzing possible future events by considering alternative possible outcomes.”
 - (1) Power-law — “A functional relationship between two quantities, where a relative change in one quantity results in a proportional relative change in the other quantity, independent of the initial size of those quantities: one quantity varies as a power of another.” (related: Pareto distribution; Pareto principle — “for many events, roughly 80% of the effects come from 20% of the causes.”)
