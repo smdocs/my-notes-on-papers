@@ -27,5 +27,5 @@ Make sure that your construction to be used with the black box for X is poly-siz
 [](https://www.cs.oberlin.edu/~asharp/cs280/2012fa/handouts/np.pdf)
 
 ### Resources
-[21 NP hard Problems](http://jeffe.cs.illinois.edu/teaching/algorithms/2009/notes/21-nphard.pdf)
-[What does p-vs-np mean for the rest of us](https://www.technologyreview.com/s/420290/what-does-p-vs-np-mean-for-the-rest-of-us/)
+- [21 NP hard Problems](http://jeffe.cs.illinois.edu/teaching/algorithms/2009/notes/21-nphard.pdf)
+- [What does p-vs-np mean for the rest of us](https://www.technologyreview.com/s/420290/what-does-p-vs-np-mean-for-the-rest-of-us/)
