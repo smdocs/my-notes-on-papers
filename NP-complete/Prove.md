@@ -7,7 +7,7 @@ problem in NP.
 Argue that there is an efficient verifier for X. In other words, describe a verifier such that for any yes instance of X, there exists a certificate that the verifier will accept, and for any no instance of X, no such certificate exists. The running
 time of the verifier (and hence the size of the certificate) must be polynomial. Typically, a solution to the given problem is a sufficient certificate. This step is very brief, but necessary.
 
-### [Step 2: Pick a know NP complte problem]()
+### [Step 2: Pick a know NP complete problem]()
 State what problem Y we are reducing to X; we need to show that Y ≤P X.  By the very definition of NPcomplete, if X is NP-complete, then we can technically use any other NP-complete problem Y to show this. However, some problems will be far easier to use than others.It is often useful to spend some time thinking about which of the problems we know to be NP-complete would be most natural to use for a given reduction.
 
 ### [Step 3: Construct an algorithm to solve Y given an algorithm to solve X]()
