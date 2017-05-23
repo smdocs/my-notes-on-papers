@@ -25,3 +25,6 @@ Step 4b: Prove that we find all solutions . Show that if we are given a yes inst
 Make sure that your construction to be used with the black box for X is poly-size and poly-time. This should allow us to conclude that since our algorithm runs in polynomial time, Y ≤P X. Since Y is NP-complete, and since we also have shown that X is in NP, X is NP-complete
 
 [](https://www.cs.oberlin.edu/~asharp/cs280/2012fa/handouts/np.pdf)
+
+### Resources
+[21 NP hard Problems](http://jeffe.cs.illinois.edu/teaching/algorithms/2009/notes/21-nphard.pdf)
