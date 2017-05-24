@@ -1,5 +1,7 @@
 # P vs NP
-The “P versus NP problem” asks whether these two classes are actually identical; that is, whether every NP problem is also a P problem. If P equals NP, every NP problem would contain a hidden shortcut, allowing computers to quickly find perfect solutions to them. But if P does not equal NP, then no such shortcuts exist, and computers’ problem-solving powers will remain fundamentally and permanently limited. Practical experience overwhelmingly suggests that P does not equal NP. But until someone provides a sound mathematical proof, the validity of the assumption remains open to question.
+The “P versus NP problem” asks whether these two classes are actually identical; that is, whether every NP problem is also a P problem. If P equals NP, every NP problem would contain a hidden shortcut, allowing computers to quickly find perfect solutions to them. But if P does not equal NP, then no such shortcuts exist, and computers’ problem-solving powers will remain fundamentally and permanently limited. 
+
+Practical experience overwhelmingly suggests that P does not equal NP. But until someone provides a sound mathematical proof, the validity of the assumption remains open to question.
 
 # Steps to prove a problem X is NP Complete
 
