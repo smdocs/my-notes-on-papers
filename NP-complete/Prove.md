@@ -1,7 +1,6 @@
 # Steps to prove a problem X is NP Complete
 
-> General Idea: In order to prove that a problem is NP complete,we need to show that ot is noth in NP and at least as <b>hard</b> as any other 
-problem in NP.
+> General Idea: In order to prove that a problem is NP complete,we need to show that it is both in NP and at least as <b>hard</b> as any other problem in NP.
 
 ### [Step 1: Show that problem X is in NP]()
 Argue that there is an efficient verifier for X. In other words, describe a verifier such that for any yes instance of X, there exists a certificate that the verifier will accept, and for any no instance of X, no such certificate exists. The running
