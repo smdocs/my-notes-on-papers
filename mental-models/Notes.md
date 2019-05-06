@@ -1,4 +1,4 @@
-#[Useful Mental Models](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.1z3ubjhso)
+# [Useful Mental Models](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.1z3ubjhso)
 
 Mental models are useful to try to make sense of things and to help generate ideas. To actually be useful, however, you have to
 apply them in the right context at the right time. And for that to happen naturally, you have to know them well and practice 
